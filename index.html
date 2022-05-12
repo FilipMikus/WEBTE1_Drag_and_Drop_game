@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Louvre Riddle</title>
+    <meta content="Hra Louvre Riddle je logická hra pre jedného hráča využívajúca Drag&Drop technológiu."
+          name="description">
+    <link href="media_files/icons/favicon_black.ico" rel="icon">
+    <link href="media_files/icons/icon_192x192.png" rel="apple-touch-icon">
+    <meta content="#FFFFFF" name="theme-color"/>
+    <link href="styles.css" rel="stylesheet">
+    <script src="app.js"></script>
+    <link href="manifest.json" rel="manifest">
+</head>
+<body class="start_body">
+<header class="page_head">
+    <img alt="louvre_icon_logo" class="page_head_logo" draggable="false"
+         onclick="homeLogoHandler(event)" src="media_files/icons/louvre_logo_black.png">
+    <button class="rules_button" onclick="rulesButtonHandler(event)">Pravidlá</button>
+</header>
+<video autoplay loop muted playsinline src="media_files/backgrounds/start_louvre.mp4"></video>
+<div id="front_page">
+    <h1><span>Louvre</span> Riddle</h1>
+    <button class="launch_button" onclick="launchButtonHandler(event)">Spustiť</button>
+</div>
+<div id="rules_wrapper">
+    <div id="rules_panel">
+        <h3>Popis hry</h3>
+        Hra Louvre Riddle je logická hra pre jedného hráča. Hrač sa pokúša maľbám umiestneným vo francúzkom múzeu
+        Louvre priradiť ich mená a mená umelcov, ktorí ich zhotovili. Hráč ma k dispozícii 15 levelov, ktoré sa po
+        vyriešení začnú opakovať. Hru je možné vypnúť a pokračovať v riešení daného levelu neskôr.
+        <br>
+        <h3>Pravidlá</h3>
+        <ul>
+            <li>Hráč má k dispozícii 4 možnosti, pričom len jedna je správna.</li>
+            <li>Hráč má k dispozícii nápovedu ku každému levelu s informáciami o autorovi alebo maľbe.</li>
+            <li>Hráč má k dispozícii možnosť zobrazenia riešenia každého levelu.</li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>

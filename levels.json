@@ -1,0 +1,422 @@
+[
+  {
+    "levelId": 1,
+    "imagePath": "media_files/paints/coronation_of_napoleon.jpg",
+    "help": "Autor obrazu bol francúzsky klasicistický maliar. Patril k najprominentnejším maliarom tohto obdobia vo Francúzsku a vytvoril maliarsky štýl, ktorý zachytával atmosféru posledných dní ancien régime.<br>Neskôr stal podporcom Francúzskej revolúcie a priateľom Maximiliána Robespierra. Po páde Robespierroveho režimu ho zatkli. Po uchopení moci Napoleonom sa autor presadil a jeho diela ho postupne urobili dôležitým maliarom 19. storočia.",
+    "correctOptionId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Korunovácia Napoleóna",
+        "artistName": "Jacques-Louis David"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Nočná hliadka",
+        "artistName": "Rembrandt van Rijn"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Guernica",
+        "artistName": "Eugène Delacroix"
+      }
+    ]
+  },
+  {
+    "levelId": 2,
+    "imagePath": "media_files/paints/dante_and_virgil_in_hell.jpg",
+    "help": "Autor bol francúzsky maliar, najvýznamnejší predstaviteľ romantizmu vo francúzskej maľbe. Patrí medzi najvýznamnejšie osobnosti svetového maliarstva 19. storočia.<br>Autor ilustroval rôzne práce Williama Shakespeara, škótskeho spisovateľa Waltera Scotta a nemeckého spisovateľa a básnika Johanna Wolfganga von Goetha. Známy je tiež jeho „Deník“, v ktorom vyjadroval svoje názory na výtvarné umenie, literatúru a hudbu.<br>V jeho maliarskom diele nachádzame portréty, obrazy s náboženskými námetmi, scény z histórie alebo literatúry. Občas sa uňho objavujú aj prírodné témy, napríklad kvety alebo krajinky.",
+    "correctOptionId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Zvestovanie",
+        "artistName": "Leonardo da Vinci"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Dante a Virgil v pekle",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      }
+    ]
+  },
+  {
+    "levelId": 3,
+    "imagePath": "media_files/paints/david_with_the_head_of_goliath.jpg",
+    "help": "Autor bol významný taliansky barokový maliar. Narodil sa v rodine hudobníkov - Daniela Reniho a Ginevry de’ Pozzi.<br>Už ako deväťročný začal študovať u flámskeho maliara Denisa Calvaerta, neskôr pokračoval štúdiom u Francesca Albaniho a Domenichina.<br>V roku 1601 sa spolu s Albanim presťahoval do Ríma, kde pracoval v skupine maliarov vedených významným maliarom Annibalom Carraccim, na freskovej výzdobe paláca Farnese. V rokoch 1601-1604 bol jeho hlavným patrónom kardinál Sfondrati. V rokoch 1604-1605 dostal osobné poverenie, aby namaľoval oltárny obraz, ktorý bol umiestnený do baziliky sv. Petra (Ukrižovanie sv. Petra). Po niekoľkoročnom pobyte v Bologni sa vrátil do Ríma, kde sa stal hlavným maliarom počas trvania pontifikátu pápeža Pavla V. (Camillo Borghese), a v rokoch 1607 - 1614 bol jedným z maliarov, ktorých patrónom bol pápež. Za jeho majstrovské dielo je považovaná výzdoba hlavnej siene v paláci Casino dell'Aurora. V priebehu neskorších rokov odcestoval do Neapolu, aby tu dokončil zákazku na freskovú výzdobu kaplnky San Gennaro v neapolskej katedrále a viac či menej pravidelne sa vracal do Bologne, kde si časom založil vlastné úspešné štúdio. Medzi jeho najslávnejších žiakov patrí Simone Cantarini, nazývaný \"Il Pesarese\", Domenico Maria Canuti alebo Giovanni Battista Michelini.<br>Zomrel v roku 1642 v Bologni a pochovaný je s mladou talianskou maliarkou Elisabettou Sirani v bazilike sv. Dominika v Bologni.",
+    "correctOptionId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Dávid s hlavou Goliáša",
+        "artistName": "Guido Reni"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Nočná hliadka",
+        "artistName": "Rembrandt van Rijn"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Zvestovanie",
+        "artistName": "Leonardo da Vinci"
+      }
+    ]
+  },
+  {
+    "levelId": 4,
+    "imagePath": "media_files/paints/death_of_the_virgin.jpg",
+    "help": "Autor bol taliansky barokový maliar, jedna z najvýznamnejších osobností svetového maliarstva.<br>Narodil sa v malom mestečku Caravaggio neďaleko Milána v južnej Lombardii, Fermovi Merisimu, správcovi rodiny Sforzovcov, a jeho druhej manželke Lucii Aratoriovej. O jeho narodení neexistuje žiaden záznam, ani v Miláne ani v Caravaggiu, maliar však prijal meno svojho rodného mesta. Čoskoro po jeho narodení sa rodina presťahovala do Milána, kde mal jeho otec, architekt a stavebný majster, väčšie možnosti uplatnenia. Tu prežil Michelangelo svoje najranejšie detstvo.<br><br>Obraz pôvodne bol určený na hlavný oltár karmelitánskeho kostola Santa Maria della Scala v rímskej štvrti Trastevere. Kostol postavený v roku 1593 stál v jednej z najchudobnejších rímskych štvrtí a preto ho navštevovali predovšetkým ľudia z najnižších spoločenských vrstiev. Spolu s priľahlým kláštorom Casa Pia sa stával útočiskom najmä bezbranných žien a dievčat, týraných a často nútených k prostitúcii. V roku 1597 sa jeho správcom stal Laerzo Cherubini, ktorý okolo roku 1606 objednal u autora oltárny obraz s námetom skonu Panny Márie.",
+    "correctOptionId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Smrť Panny Márie",
+        "artistName": "Caravaggio"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Smrť Panny Márie",
+        "artistName": "Michelangelo"
+      }
+    ]
+  },
+  {
+    "levelId": 5,
+    "imagePath": "media_files/paints/liberty_leading_the_people.jpg",
+    "help": "Autor bol francúzsky maliar, najvýznamnejší predstaviteľ romantizmu vo francúzskej maľbe. Patrí medzi najvýznamnejšie osobnosti svetového maliarstva 19. storočia.<br>Autor ilustroval rôzne práce Williama Shakespeara, škótskeho spisovateľa Waltera Scotta a nemeckého spisovateľa a básnika Johanna Wolfganga von Goetha. Známy je tiež jeho „Deník“, v ktorom vyjadroval svoje názory na výtvarné umenie, literatúru a hudbu.<br>V jeho maliarskom diele nachádzame portréty, obrazy s náboženskými námetmi, scény z histórie alebo literatúry. Občas sa uňho objavujú aj prírodné témy, napríklad kvety alebo krajinky.<br><br>Na obraze sú vo veľmi vypätej, dramatickej polohe zobrazené krvavé udalosti francúzskej júlovej revolúcie z roku 1830, ktorá nakoniec viedla k zvrhnutiu kráľa Karla X.. Na tomto obraze maliar použil klasicky strohú kompozíciu, oživenú pohybovým bohatstvom figúr. Do stredu obrazu umiestnil ženu ako alegóriu Slobody, držiacu v zdvihnutej ruke trikolóru. Táto ústredná postava na obraze zjednocuje všetky formy a farby celej kompozície. Postava ženy ako alegória Slobody, ktorá uprostred padlých a zranených zdvihnutou rukou s trikolórou vyzýva na boj a zároveň vyjadruje silu, energiu a odhodlanosť francúzskych revolucionárov.",
+    "correctOptionId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Nočná hliadka",
+        "artistName": "Rembrandt van Rijn"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Sloboda vedie ľud na barikády",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      }
+    ]
+  },
+  {
+    "levelId": 6,
+    "imagePath": "media_files/paints/mona_lisa.jpg",
+    "help": "Autor bol taliansky renesančný architekt, hudobník, vynálezca, sochár a maliar. Bol opísaný ako archetyp „renesančného človeka“ a ako univerzálny génius. Autor sa stal slávnym pre svoje majstrovské obrazy ako Posledná večera a iné. Tiež je známy ako tvorca mnohých vynálezov, ktoré predvídali modernú technológiu, ale ktoré boli len výnimočne skonštruované počas jeho života. Navyše pomohol rozvinúť anatómiu, astronómiu a stavebníctvo.<br><br>Portrét zobrazuje pani Gherardini, manželku florentského obchodníka Francesca di Bartolomeo di Zanobi del Giocondo, oblečenú podľa súdobej florentskej módy, na pozadí pahorkatej krajiny. Pri pohľade na obraz pozornosť púta predovšetkým legendárny „záhadný úsmev“ a prenikavý pohľad, ktorým akoby sa skutočne dívala z obrazu. Je to jedno z najznámejších umeleckých diel v dejinách výtvarného umenia.",
+    "correctOptionId": 4,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Mona Líza",
+        "artistName": "Leonardo da Vinci"
+      }
+    ]
+  },
+  {
+    "levelId": 7,
+    "imagePath": "media_files/paints/st_michael_overwhelming_the_demon.jpg",
+    "help": "Autor bol taliansky renesančný maliar a architekt florentskej školy v období vrcholnej renesancie. Narodil sa v Urbine. Jeho otec, Giovanni Santi, bol taktiež maliarom na urbinskom dvore. V roku 1491 mu zomrela matka a o tri roky neskôr aj otec. Jedenásťročný autor bol zverený do výchovy svojho strýka Bartolomea, ktorý bol kňazom. Chlapcov talent sa prejavil veľmi skoro. Existujú doklady o tom, že sa podieľal na práci v otcovej maliarskej dielne ešte za jeho života.<br>Urbino bolo za vlády Federica da Montefeltro centrom kultúry. Vojvoda štedro podporoval umenie aj umelcov a na jeho dvore pracovali významní talianski maliari ako Donato Bramante, Piero della Francesca, Paolo Uccello alebo Luca Signorelli. Kontakt s týmito umelcami prispel k autorovmu rýchlemu dozrievaniu, rovnako ako práca v maliarskom ateliéri majstra Pietra Perugina, ktorý mal na jeho ranú tvorbu značný vplyv. Nie je preto veľmi udivujúce, že už v roku 1501, teda vo veku 18 rokov sa o Raffaelovi Santim hovorí ako o majstrovi.",
+    "correctOptionId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Sv. Michael poráža Satana",
+        "artistName": "Raphael"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Zvestovanie",
+        "artistName": "Leonardo da Vinci"
+      }
+    ]
+  },
+  {
+    "levelId": 8,
+    "imagePath": "media_files/paints/the_battles_of_the_granicus_river.jpg",
+    "help": "Autor bol francúzsky maliar a teoretik umenia, jeden z najdominantnejších umelcov 17. storočia vo Francúzsku.<br>Vďaka tomu, že upútal pozornosť kancelára Séguiera, dostal sa s jeho pomocou už ako 7-ročný do ateliéra Simona Voueta a bol tiež žiakom Françoisa Perriera. Ako 15-ročný získal objednávku od kardinála Richelieu, ktorá mu umožnila ukázať svoje schopnosti, neskôr pôsobil štyri roky v ateliéri Nicolasa Poussina v Ríme a po návrate do Paríža v roku 1646 získal mnoho patrónov, z ktorých bol najdôležitejší asi Nicolas Fouquet, pre ktorého namaľoval veľký portrét Anny Rakúskej.<br>Vďaka kardinálovi Mazarinovi sa spolupodieľal ako maliar (rovnako ako architekt Louis Le Vau a záhradný architekt André le Nôtre) na výstavbe zámku vo Versailles.",
+    "correctOptionId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Bitka pri Graníku",
+        "artistName": "Charles Le Brun"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Zvestovanie",
+        "artistName": "Leonardo da Vinci"
+      }
+    ]
+  },
+  {
+    "levelId": 9,
+    "imagePath": "media_files/paints/the_raft_of_medusa.jpg",
+    "help": "Autor bol maliar a grafik, hlavný predstaviteľ francúzskeho romantizmu.<br>Narodil sa v Rouen vo Francúzsku. Pochádzal z bohatej rodiny a na maľovaní bol materiálne úplne nezávislý. V detstve prejavoval výtvarné nadanie, ktoré potom zdokonaľoval u slávneho maliara Carla Verneta, bol priateľom jeho syna Horace Verneta, a neskôr u Pierra Guerrina.<br>Roku 1811 sa zapísal na École des Beaux-Arts v Paríži. Už nasledujúci rok podniká na vlastné náklady študijnú cestu do Talianska, kde ho ohromilo umenie talianskej renesancie a najmä dielo Michelangela. Je tiež priťahovaný plátnami Petera Paula Rubensa. Po návrate do Francúzska tvorí stále pod vplyvom školy Dávidovej obrazy s tematikou koní, jazdecké scény, portréty prostých ľudí, krajiny. Postupne však si vytvára osobitý štýl maľovania, z ktorého vyžaruje aj celá jeho duša-farebná, energická, extravagantná osobnosť.<br>Z jeho diel sála extatické napätie v ktorom tvoril, kompozície vzbudzujúce vždy silné emócie. Pod vplyvom politických udalostí vytvára svoje prvé nesmrteľné diela tvoriace už prechod od neoklasicizmu k romantizmu.<br><br>Maľba dramaticky znázorňuje skutočný príbeh katastrofy lode, ktorá sa roku 1816 potopila a cestujúci, ktorých sa zachránilo 147, boli opustení posádkou lode a vydaní bez jedla aj pitia napospas moru a podnebiu. Po 2 týždňoch plavby, počas ktorých sa vyskytli aj prípady kanibalizmu sa zachránilo 15 pološialených ľudí (ďalších 5 zahynulo na palube lode Argus, ktorá ich zachránila). Príhoda, ktorá mala veľkú odozvu verejnosti aj politickú dohru, je na plátne podaná s takou drásavosťou a zmyslom pre tragiku, že dielo vyvolalo na Parížskom salóne roku 1819 spoločenský škandál.",
+    "correctOptionId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Vor Medúzy",
+        "artistName": "Théodore Géricault"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Zvestovanie",
+        "artistName": "Leonardo da Vinci"
+      }
+    ]
+  },
+  {
+    "levelId": 10,
+    "imagePath": "media_files/paints/the_wedding_feast_at_cana.jpg",
+    "help": "Autor bol významný taliansky renesančný maliar, ktorý pracoval hlavne v Benátkach.<br>Narodil sa ako Paolo Cagliari v rodine veronského sochára Gabriela Cagliari.<br>U otca a svojho strýka maliara Antonia Badile vo Verone sa tiež učil a pracoval. Roku 1548 sa na pozvanie kardinála E. Gonzaga presťahoval do Mantovy, kde maľoval fresky v tamojšom dóme. Od roku 1555 sa usadil v Benátkach, kde na seba upozornil slávnym obrazom Svadba v Káni Galilejskej (teraz v Louvri) a freskou Hostina v dome Leviho, kvôli ktorej bol na udanie vyšetrovaný inkvizíciou. Ďalšie slávna diela sú fresky v benátskej knižnici a v kostole sv. Sebastiána. Vytvoril množstvo často veľmi rozmerných portrétov, obrazov a fresiek pre kostoly i pre paláce a vily. Jeho obrazy charakterizuje dramatická kompozícia a farebnosť v štýle benátskeho manierizmu.<br>Najväčšie zbierky jeho obrazov - okrem Benátok - sú v parížskom Louvri, v galérii v Drážďanoch, v Berlíne a v petrohradskej Ermitáži. Niekoľko jeho obrazov má tiež Národní galerie v Prahe.<br><br>Námetom obrazu je novozákonný príbeh, kedy Ježiš po prvý raz vykonal zázrak. Spolu s matkou, Pannou Máriou, bol pozvaný na svadobnú hostinu. Počas nej, keď už bolo víno takmer vypité, prikázal naplniť nádoby vodou, ktorá sa vzápätí premenila na víno. Rozloženie postáv s Ježišom osvetleným aureolou a sediacim za stolom v centrálnej časti obrazu v obklopení svojich učeníkov pripomína všeobecne známy námet Poslednej večere.<br>Autor na obraze zachytil vyše stovky postáv, medzi ktorými sa nachádzajú Ježišovi učeníci, bohatí benátski kupci, aristokrati, svoje miesto tu našli orientálni vyslanci, ale aj obyčajní ľudia.",
+    "correctOptionId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Svadba v Káne Galilejskej",
+        "artistName": "Veronese"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Nočná hliadka",
+        "artistName": "Rembrandt van Rijn"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Korunovácia Márie Terézie",
+        "artistName": "Eugène Delacroix"
+      }
+    ]
+  },
+  {
+    "levelId": 11,
+    "imagePath": "media_files/paints/astronomer.jpg",
+    "help": "Autor bol holandský maliar, ktorý žil a pracoval v Delfte. Od 19. storočia je jedným z najobdivovanejších holandských barokových maliarov.<br><br>Dielo je barokový portrétny obraz holandského maliara namaľovaný okolo roku 1668. Jedná sa o olejo-maľbu na plátne s rozmermi 51 cm × 45 cm. Obraz je uložený v Louvri.<br>Portréty vedcov boli obľúbenou témou holandského maliarstva 17. storočia. Autor okrem tohto obrazu namaľoval ešte obraz Geograf a predpokladá sa, že oba tieto obrazy vyobrazujú rovnakého muža, pričom to môže byť Antoni van Leeuwenhoek. V roku 2017 bolo preukázané, že plátna pre oba obrazy sú z rovnakého materiálu.<br>Protagonista na obraze sa pozerá na nebeský glóbus (od Jodoca Hondiusa). Na stole má aj knihu, a to dielo Institutiones Astronomicae Geographicae Holanďana Adriaana Metia z roku 1621.",
+    "correctOptionId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Geológ",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Astronóm",
+        "artistName": "Johannes Vermeer"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Svadba v Káne Galilejskej",
+        "artistName": "Veronese"
+      }
+    ]
+  },
+  {
+    "levelId": 12,
+    "imagePath": "media_files/paints/diana_bathing.jpg",
+    "help": "Autor bol francúzsky maliar, významný predstaviteľ rokoka. Prvý kráľovský maliar, obľúbenec Madame de Pompadour, neskôr rektor Akadémie. Okrem portrétov francúzskej šľachty maľoval mytologické témy lásky v nežných pastelových farbách.",
+    "correctOptionId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Diana po kúpeli",
+        "artistName": "François Boucher"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Madame de Pompadour",
+        "artistName": "François Boucher"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Dalího panovačná múza",
+        "artistName": "Salvador Dalí"
+      }
+    ]
+  },
+  {
+    "levelId": 13,
+    "imagePath": "media_files/paints/lacemaker.jpg",
+    "help": "Autor bol holandský maliar, ktorý žil a pracoval v Delfte. Od 19. storočia je jedným z najobdivovanejších holandských barokových maliarov.<br><br>Dielo je obraz holandského výtvarníka, dokončený okolo roku 1669 - 1670 a držaný v parížskom Louvri. Dielo zobrazuje mladú ženu v žltom živôtiku, ako drží v ľavej ruke pár cievok, ako opatrne vkladá špendlík do vankúša, na ktorom robí paličkovanú čipku.",
+    "correctOptionId": 4,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Čipkovanie",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Mona Líza",
+        "artistName": "Leonardo da Vinci"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Zvestovanie",
+        "artistName": "Leonardo da Vinci"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Čipkárka",
+        "artistName": "Johannes Vermeer"
+      }
+    ]
+  },
+  {
+    "levelId": 14,
+    "imagePath": "media_files/paints/man_with_a_glove.jpg",
+    "help": "Autor bol jedným z najvýznamnejších talianskych renesančných maliarov 16. storočia, významný predstaviteľ benátskej maliarskej školy.<br><br>Obraz zobrazuje trojštvrťový pohľad na mužskú postavu postavenú na plochom čiernom pozadí. Zdá sa, že sa pozerá na neurčitý bod naľavo od plátna s ľavou rukou položenou na kolene. Mohol ukazovať na svoje rukavice, ktoré boli v tej dobe módne. Oblečený je v širokom saku a bielej košeli podľa vtedajšej módy.",
+    "correctOptionId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Nočná hliadka",
+        "artistName": "Rembrandt van Rijn"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Muž s rukavicou",
+        "artistName": "Tiziano Vecelli"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Las Meninas",
+        "artistName": "Pablo Picasso"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Vedec",
+        "artistName": "Veronese"
+      }
+    ]
+  },
+  {
+    "levelId": 15,
+    "imagePath": "media_files/paints/philosopher_in_meditation.jpg",
+    "help": "Autor bol holandský maliar a grafik, významný predstaviteľ európskeho baroka, jeden z najväčších svetových maliarov vôbec.<br>Obraz maľovaný olejmi na dubovej doske s rozmermi cca 11 x 13 palcov (28 x 34 cm) zobrazuje v mierne zrýchlenej perspektíve dve postavy v čiastočne zaklenutom interiéri, ktorému dominuje drevené točité schodisko. Architektúra zahŕňa kameň, tehly a drevo, s oblúkovými prvkami (okno, klenba, dvere), ktoré vytvárajú dojem monumentality. Najnápadnejšia je postava starého muža sediaceho za stolom pred oknom, so sklonenou hlavou a rukami zloženými v lone. Druhá postava je starenka, ktorá sa stará o oheň v otvorenom ohnisku. Tretia postava – žena stojaca na schodoch nesúca kôš a otočená k divákovi – je viditeľná na rytých reprodukciách obrazu z 18. a 19. storočia, ale v súčasnom stave obrazu je prakticky neviditeľná.",
+    "correctOptionId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "pictureName": "Guernica",
+        "artistName": "Eugène Delacroix"
+      },
+      {
+        "optionId": 2,
+        "pictureName": "Muž s rukavicou",
+        "artistName": "Tiziano Vecelli"
+      },
+      {
+        "optionId": 3,
+        "pictureName": "Filozof v meditácii",
+        "artistName": "Rembrandt van Rijn"
+      },
+      {
+        "optionId": 4,
+        "pictureName": "Vedec",
+        "artistName": "Veronese"
+      }
+    ]
+  }
+]

@@ -1,0 +1,347 @@
+.page_head {
+    height: 10vh;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.page_head_logo {
+    height: 8vh;
+    width: 8vh;
+    padding: 1vh 1vw;
+}
+
+.page_head_logo:hover {
+    cursor: pointer;
+}
+
+#game_body {
+    margin: 0;
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 150%;
+    line-height: 1.4;
+    background: url("media_files/backgrounds/louvre_interior_2.jpg") center center fixed no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.start_body {
+    margin: 0;
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 150%;
+    line-height: 1.4;
+    background-color: grey;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    filter: blur(6px);
+}
+
+#front_page {
+    position: absolute;
+    height: 75vh;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    padding: 0 1%;
+    font-family: 'Syncopate', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 3vw;
+    line-height: 1.2;
+    font-size: 10vh;
+    text-align: center;
+}
+
+h1 span {
+    -webkit-text-stroke: 3px white;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+a {
+    text-decoration: none;
+}
+
+.button_control_panel {
+    display: flex;
+    flex-direction: row;
+}
+
+.launch_button {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    margin: 1vh 1vw;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 3px solid white;
+    height: 8vh;
+    width: 15vw;
+}
+
+.rules_button {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    margin: 1vh 1vw;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: white;
+    height: 8vh;
+    width: 15vw;
+    border: 3px solid white;
+}
+
+.help_button {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+    border: 3px solid black;
+    height: 8vh;
+    width: 15vw;
+    margin: 1vh 1vw;
+}
+
+.rules_button {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+    border: 3px solid black;
+    height: 8vh;
+    width: 15vw;
+    margin: 1vh 1vw;
+}
+
+.solve_button {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+    height: 8vh;
+    width: 15vw;
+    margin: 1vh 1vw;
+}
+
+button:hover {
+    background-color: grey;
+    color: white;
+    border-color: grey;
+}
+
+#paint {
+    display: flex;
+    margin: 2vh auto 1vh;
+    max-width: 90vw;
+    max-height: 65vh;
+    border: 10px solid black;
+}
+
+#help_wrapper {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    top: 10vh;
+    height: 90vh;
+    width: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+#rules_wrapper {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    top: 10vh;
+    height: 90vh;
+    width: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+#help_panel {
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vh;
+    background-color: white;
+    color: black;
+    position: absolute;
+    padding: 5%;
+    height: 60%;
+    width: 60%;
+    border: 3px solid black;
+    overflow-y: auto;
+}
+
+#rules_panel {
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vh;
+    background-color: white;
+    color: black;
+    position: absolute;
+    padding: 2% 5% 5%;
+    height: 60%;
+    width: 60%;
+    border: 3px solid black;
+    overflow-y: auto;
+}
+
+#dnd_control_panel {
+    display: flex;
+    align-items: stretch;
+    margin-bottom: 1vh;
+    max-height: 20vh;
+}
+
+.dnd_area {
+    padding: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 2vh;
+    flex: 1 1;
+    margin: 1vh 1vw;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.dnd_area.destination {
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+    border: 3px solid black;
+}
+
+@media (orientation: portrait) {
+    .launch_button {
+        width: 30vw;
+        padding: 1vh;
+        font-size: 2vh;
+    }
+
+    .rules_button {
+        width: 30vw;
+        padding: 1vh;
+        font-size: 2vh;
+    }
+
+    .help_button {
+        width: 30vw;
+        padding: 1vh;
+        font-size: 2vh;
+    }
+
+    .solve_button {
+        width: 30vw;
+        padding: 1vh;
+        font-size: 2vh;
+    }
+
+    #help_panel {
+        font-size: 2vh;
+    }
+
+    #rules_panel {
+        font-size: 2vh;
+    }
+
+    #paint {
+        max-height: 45vh;
+        max-width: 90%;
+    }
+
+    #dnd_control_panel {
+        flex-wrap: wrap;
+        flex-direction: column;
+        max-height: 45vh;
+    }
+
+    .dnd_area {
+        padding: 1vh;
+        font-size: 2vh;
+    }
+}
+
+@media print {
+    .page_head {
+        display: none;
+    }
+
+    video {
+        display: none;
+    }
+
+    #front_page {
+        display: none;
+    }
+
+    #rules_wrapper {
+        display: none;
+    }
+
+    #rules_panel {
+        display: block;
+        border: transparent;
+        height: auto;
+        width: auto;
+        top: 0;
+    }
+}
